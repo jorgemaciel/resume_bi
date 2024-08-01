@@ -161,9 +161,13 @@ cython_debug/
 
 # Curriculos
 cv_pdf/
-
+cv_json/
+Erro/
 # Credentials Google
 credentials.json
 
 # Doc
 doc.md
+
+#Qdrant
+qdrant_storage/
