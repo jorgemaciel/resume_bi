@@ -2,4 +2,10 @@ python-dotenv
 google-auth==2.22.0
 google-api-python-client==2.97.0
 pandas
-
+Markdown
+Pillow
+langchain-google-genai
+pdfminer.six
+qdrant-client
+langchain==0.2.11
+langchain-community==0.2.10
